@@ -1,5 +1,3 @@
-### README.md
-
 # Detector de Anomalías en el Tráfico de Red
 
 Este proyecto es un detector de anomalías en el tráfico de red que captura y analiza paquetes de red para identificar comportamientos anómalos. Utiliza técnicas de aprendizaje automático para detectar desviaciones de los patrones normales de tráfico.
@@ -160,8 +158,6 @@ Este proyecto es particularmente útil para los siguientes profesionales de TI:
 - Agradecimiento especial a todos los colaboradores y testers.
 
 ---
-
-### README.md
 
 # Network Traffic Anomaly Detector
 
