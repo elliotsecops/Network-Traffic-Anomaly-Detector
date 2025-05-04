@@ -1,3 +1,17 @@
+# requirements.txt
+#
+# List of dependencies required for the network anomaly detector.
+# Install using: pip install -r requirements.txt [[1]](https://learnpython.com/blog/python-requirements-file/)
+
+scapy
 pandas
 scikit-learn
-scapy
+requests
+numpy
+
+# You might want to pin specific versions for reproducibility, e.g.:
+# scapy==2.4.5
+# pandas==2.2.2
+# scikit-learn==1.4.2
+# requests==2.31.0
+# numpy==1.26.4
